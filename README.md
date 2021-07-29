@@ -1,4 +1,4 @@
-## Saaaalve! Prazer sou o Leonardo Souza!
+## Oi eu sou Léo!
  <div>
   <a href="https://github.com/leosilvasouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosilvasouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
