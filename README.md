@@ -14,7 +14,7 @@
   <img align="center" alt="Leo-Yaml" src="https://github.com/leosilvasouza/images/blob/main/yml_file_document_icon.png">
   <img align="center" alt="Leo-Docker" src="https://github.com/leosilvasouza/images/blob/main/docker_new_icon.png">
   <img align="center" alt="Leo-Kubernetes" src="https://github.com/leosilvasouza/images/blob/main/kubernetes_icon.png">
- <img align="center" alt="Leo-Shell" src="https://github.com/leosilvasouza/images/blob/main/shell_icon.png">
+  <img align="center" alt="Leo-Shell" src="https://github.com/leosilvasouza/images/blob/main/shell_icon.png">
 </div>
   
   ##
@@ -23,6 +23,6 @@
   <a href = "mailto:leonardosilva.souza@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardosilvasouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.paypal.com/invoice/est/#34QVZNDYQ46LTT3M" target="_blank"><img src="https://github.com/leosilvasouza/images/blob/main/paypal_new_icon.png" target="_blank"></a> 
-  
- 
+  ![Snake animation](https://github.com/leosilvasouza/leosilvasouza/blob/output/github-contribution-grid-snake.svg)
 </div>
+##
