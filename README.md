@@ -1,4 +1,5 @@
-## Oi eu sou Léo!
+## Bem Vindo ao meu Github!
+#### Aqui subo todos os códigos que acabo estudando ou contribuindo profissionalmente.
  <div>
   <a href="https://github.com/leosilvasouza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leosilvasouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
