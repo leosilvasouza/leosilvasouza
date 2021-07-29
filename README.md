@@ -8,10 +8,11 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-HCL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Leo-json" src="https://img.icons8.com/color/48/000000/json--v1.png">
-  <img align="right" alt="Leo-Yaml" src="https://github.com/leosilvasouza/images/blob/main/yml_file_document_icon.png">
-  <img align="right" alt="Leo-Docker" src="https://github.com/leosilvasouza/images/blob/main/docker_new_icon.png">
-  <img align="right" alt="Leo-Docker" src="https://github.com/leosilvasouza/images/blob/main/kubernetes_icon.png">
+  <img align="center" alt="Leo-json" src="https://img.icons8.com/color/48/000000/json--v1.png">
+  <img align="center" alt="Leo-Yaml" src="https://github.com/leosilvasouza/images/blob/main/yml_file_document_icon.png">
+  <img align="center" alt="Leo-Docker" src="https://github.com/leosilvasouza/images/blob/main/docker_new_icon.png">
+  <img align="center" alt="Leo-Kubernetes" src="https://github.com/leosilvasouza/images/blob/main/kubernetes_icon.png">
+ <img align="center" alt="Leo-Shellr" src="https://github.com/leosilvasouza/images/blob/main/shell_icon.png">
 </div>
   
   ##
