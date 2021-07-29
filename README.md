@@ -25,4 +25,3 @@
  <a href="https://www.paypal.com/invoice/est/#34QVZNDYQ46LTT3M" target="_blank"><img src="https://github.com/leosilvasouza/images/blob/main/paypal_new_icon.png" target="_blank"></a> 
   ![Snake animation](https://github.com/leosilvasouza/leosilvasouza/blob/output/github-contribution-grid-snake.svg)
 </div>
-##
